@@ -9,6 +9,7 @@ pylint = "*"
 [packages]
 flask = "*"
 gunicorn = "*"
+pipfile = "*"
 
 [requires]
 python_version = "3.6"
